@@ -1,26 +1,10 @@
 # Words App
 
-This folder contains the source code for the Words app codelab.
+## :page_facing_up: Project
+App de dicionário simples feito em Kotlin, com uma lista de letras, palavras para cada letra e a capacidade de procurar definições de cada palavra no navegador. Criado para aprender RecyclerView, navegação entre Fragments, modificar o header e implementar uma Intent.
 
-
-# Introduction
-Words app allows you to select a letter and use Intents to navigate to an Activity that
-presents a number of words starting with that letter. Each word can be looked up via a web search.
-
-Words app contains a scrollable list of 26 letters A to Z in a RecyclerView. The orientation
-of the RecyclerView can be changed between a vertical list or a grid of items.
-
-The app demonstrates the use of Intents in two ways:
-* to navigate inside an app by specifying an explicit destination, and,
-* allowing Android to service the Intent using the apps and resources present on the device.
-
-# Pre-requisites
-* Experience with Kotlin syntax.
-* Able to create an Activity.
-* Able to create a RecyclerView and supply it with data.
-
-# Getting Started
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+<div align="center">
+  <img height="490" src="to-README/words_1.jpg" />
+  <img height="490" src="to-README/words_2.jpg" />
+  <img height="490" src="to-README/words_3.jpg" />
+</div>
